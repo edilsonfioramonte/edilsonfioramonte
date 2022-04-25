@@ -1,8 +1,6 @@
 ### Hello, I'm Edilson 👋
 
-I live in Dourado, São Paulo, I have 24 years old. Today, I work a technology company, as a junior web designer and also work as a UI designer.
-
-I have a degree in Digital Design and a postgraduate degree in Art Direction. 
+I live in Dourado, São Paulo, I have 24 years old. I'm UX/UI designer and and I work at Cast Group, a technology company.
 
 I'm passionate about user experience (UX), user interface (UI) and interaction design, where I've been delving deeper. Photography is my hobby.
 
