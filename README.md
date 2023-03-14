@@ -1,6 +1,6 @@
 ### Hello, I'm Edilson 👋
 
-I live in Dourado, São Paulo, I have 24 years old. I'm UX/UI designer and and I work at Cast Group, a technology company.
+I currently live in Foz do Iguaçu, Paraná, but I grew up in the interior of São Paulo.. I have 25 years old. I'm UX/UI designer and and I work at Cast Group, a technology company.
 
 I'm passionate about user experience (UX), user interface (UI) and interaction design, where I've been delving deeper. Photography is my hobby.
 
